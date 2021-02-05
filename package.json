@@ -1,0 +1,19 @@
+{
+  "name": "problemsolving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorji-tshering/problemsolving.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorji-tshering/problemsolving/issues"
+  },
+  "homepage": "https://github.com/dorji-tshering/problemsolving#readme"
+}
