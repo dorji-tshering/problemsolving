@@ -1,5 +1,0 @@
-// queue DSA
-
-function queueManipulate(){
-    
-}
