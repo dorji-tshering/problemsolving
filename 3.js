@@ -9,7 +9,7 @@ function rotateArray(){
         let idx = i-d;
         if(idx < 0){
             if((idx + arr.length) >= 0){
-                idx = arr.length + idx;
+                idx = arr.length + idx;   
             }
             if((idx + arr.length) < 0){
                 while (true){

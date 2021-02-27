@@ -20,7 +20,7 @@ function dynamicArray(n, queries){
             let temp = queries[i-1] + '';
             let idx = ((((temp.split(''))[1] ^ lastAnswer)) % n);
             arr[idx].push((temp.split(''))[2]);            
-        }
+        }  
         
         if(parseInt(((queries[i-1]+'').split(''))[0], 10) === 2){
             let temp = queries[i-1] + '';

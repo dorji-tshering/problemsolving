@@ -4,7 +4,7 @@ function primeFactorsTo(max)
 {
     var store  = [], i, j, primes = [];
     for (i = 2; i <= max; ++i) 
-    {
+    {   
         if (!store [i]) 
           {
             primes.push(i);

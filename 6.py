@@ -5,7 +5,7 @@ input_ += n
 for i in range(int(n)):
     input_ += ' ' + input()
 
-
+  
 def processData(dat):
     
     queue = []

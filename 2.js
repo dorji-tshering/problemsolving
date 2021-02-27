@@ -1,5 +1,5 @@
 // hourglass summation
-
+     
 let array2D = [
     [-9, -9, -9, 1, 1, 1],
     [0, -9, 0, 4, 3, 2],

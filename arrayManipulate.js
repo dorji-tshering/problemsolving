@@ -3,7 +3,7 @@ function arrayManipulate(){
     var queries = [[2, 3, 603], [1, 1, 286], [4, 4, 882]];
     var n = 4;
     var array = [];
-    // set all array elements to 0
+    // set all array elements to 0   
     for(let i=0; i<=n; i++){
         array[i] = 0;
     }

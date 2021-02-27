@@ -7,7 +7,7 @@ function sparseArray(){
     for(let j=0; j<queries.length; j++){
         var count = 0;
         for(let i=0; i<strings.length; i++){
-            if(strings[i] == queries[j]){
+            if(strings[i] == queries[j]){    
                 count++;
             }
         }
