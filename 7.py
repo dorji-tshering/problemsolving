@@ -13,8 +13,6 @@ data = list(map(lambda x: int(x), first_))
 A = list(map(lambda x: int(x), second_))
 B = list(map(lambda x: int(x), third_))
 
-length_A = data[0]
-length_B = data[1]
 limit = data[2]
 
 # game function
