@@ -3,7 +3,7 @@
 function rotateArray(){
     var arr = [1, 2, 3, 4];
     var rotated = [];
-    var d = 12;
+    var d = 99;
 
     for(let i=0; i<arr.length; i++){
         let idx = i-d;

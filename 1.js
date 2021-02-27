@@ -5,8 +5,9 @@ function reverseArray(){
     reversed = [];
 
     for(let i=0; i<array.length; i++){
-        reversed.unshift([array[i]]);
+        reversed.unshift(array[i]);
     }
     return reversed;
 }
 
+console.log(reverseArray());
