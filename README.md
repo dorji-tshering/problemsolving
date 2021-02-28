@@ -7,3 +7,4 @@ Question5: https://www.hackerrank.com/challenges/waiter/problem
 Question6: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
 Question7: https://www.hackerrank.com/challenges/game-of-two-stacks/proble
 Question8: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+Question9: https://www.hackerrank.com/challenges/crush/problem
